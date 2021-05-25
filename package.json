@@ -1,0 +1,36 @@
+{
+    "name": "cool-dark-theme",
+    "displayName": "Cool Dark Theme",
+    "description": "Dark theme for all the coders out there, as you know dark is better",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "publisher": "AbhishekJha",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/abhijhacodes/cool-dark-theme"
+    },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "cool dark theme",
+        "dark theme for coders",
+        "material theme",
+        "dark material theme",
+        "dark is better",
+        "abhishek jha theme"
+    ],
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Cool Dark Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Cool Dark Theme-color-theme.json"
+            }
+        ]
+    }
+}
