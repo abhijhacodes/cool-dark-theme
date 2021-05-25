@@ -8,3 +8,6 @@ Install and enable this extension for amazing coding experience with the cool da
 
 If you like this theme, then please star the GitHub repo 👇🏻
 https://github.com/abhijhacodes/cool-dark-theme
+
+Publisher: <a href="https://www.linkedin.com/in/abhishek-jha-3867b4205/">Abhishek Jha</a>
+Marketplace link: https://marketplace.visualstudio.com/items?itemName=AbhishekJha.cool-dark-theme
