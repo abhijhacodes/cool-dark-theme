@@ -1,6 +1,6 @@
 # COOL DARK THEME 🚀
 
-Install and enable this extension for amazing coding experience with the cool dark material theme
+Install and enable this extension for amazing coding experience with the Minimalistic cool dark material theme
 
 # DEMO 👨‍💻
 
