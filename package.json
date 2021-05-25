@@ -2,7 +2,7 @@
     "name": "cool-dark-theme",
     "displayName": "Cool Dark Theme",
     "description": "Dark theme for all the coders out there, as you know dark is better",
-    "version": "0.3.0",
+    "version": "0.4.0",
     "engines": {
         "vscode": "^1.56.0"
     },
