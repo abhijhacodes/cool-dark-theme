@@ -2,12 +2,11 @@
     "name": "cool-dark-theme",
     "displayName": "Cool Dark Theme",
     "description": "Dark theme for all the coders out there, as you know dark is better",
-    "version": "0.3.0",
+    "version": "0.1.3",
     "engines": {
         "vscode": "^1.56.0"
     },
     "publisher": "AbhishekJha",
-    "icon": "images/logo1.png",
     "repository": {
         "type": "git",
         "url": "https://github.com/abhijhacodes/cool-dark-theme"
